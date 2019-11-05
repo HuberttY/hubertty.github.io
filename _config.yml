@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language: en
-timezone:
+title: Hubertty
+subtitle: 一个好奇少年
+description: 主要编程语言为python,涉及算法、爬虫、风机故障检测等领域
+keywords: "Python,C,爬虫，数据分析"
+author: hubertty
+language: zh-CN
+timezone: GMT+8
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
